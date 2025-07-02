@@ -1,0 +1,16 @@
+[
+{
+    "model": "techfixsolutions.scheme",
+    "pk": 1,
+    "fields": {
+        "name": "Support"
+    }
+},
+{
+    "model": "techfixsolutions.scheme",
+    "pk": 2,
+    "fields": {
+        "name": "Incident"
+    }
+}
+]

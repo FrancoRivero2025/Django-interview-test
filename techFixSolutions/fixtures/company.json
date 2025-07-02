@@ -1,0 +1,12 @@
+[
+{
+    "model": "techfixsolutions.company",
+    "pk": 1,
+    "fields": {
+        "name": "aseguradora",
+        "phone": "123456",
+        "email": "aseguradora@techfixsolutions.com",
+        "website": "www.techfixsolutions.com"
+    }
+}
+]

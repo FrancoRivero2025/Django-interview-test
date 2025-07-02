@@ -48,3 +48,11 @@ static/
 # Docker / CI artifacts
 *.pid
 docker-compose.override.yml
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
