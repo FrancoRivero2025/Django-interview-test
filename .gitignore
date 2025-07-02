@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django migrations (ignore all except __init__.py)
+**/migrations/
+!**/migrations/__init__.py
+
+# Local database files
+*.sqlite3
+
+# Environment variables / secrets
+.env
+*.env
+.env.*
+
+# Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+.pip-wheel-metadata/
+
+# Log files
+*.log
+
+# Temporary files from OS or editors
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*~
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Static files collected via collectstatic
+staticfiles/
+static/
+
+# IDE/editor configuration files
+.vscode/
+
+# Docker / CI artifacts
+*.pid
+docker-compose.override.yml
